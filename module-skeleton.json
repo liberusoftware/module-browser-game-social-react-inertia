@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-social-react-inertia",
+  "capabilityKey": "liberusoftware/module-browser-game-social",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-browser-game-social-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/browser-game/nextjs/social.md",
+  "presentationPlan": "projects/browser-game/react/social.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
